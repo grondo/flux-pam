@@ -35,7 +35,7 @@ containment is set up. Slice-based containment works even when
 
 | Requirement | Notes |
 |---|---|
-| [Flux](https://github.com/flux-framework/flux-core) ≥ 0.64.0 | System instance required |
+| [Flux](https://github.com/flux-framework/flux-core) ≥ 0.85.0 | System instance required |
 | PAM development headers | `pam-devel` (RHEL/Fedora) or `libpam-dev` (Debian/Ubuntu) |
 | systemd ≥ 239 | Required for session management and slice features |
 | libsystemd development headers | `systemd-devel` or `libsystemd-dev` |
